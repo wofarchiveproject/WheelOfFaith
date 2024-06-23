@@ -242,7 +242,7 @@ function showSeasonCharacters(season) {
   
     const characterImage = document.createElement("img");
     characterImage.classList.add("character-card");
-    characterImage.src = `./assets/images/characters/${characterData.Image}`;
+    characterImage.src = `./assets/characters/${characterData.Image}`;
     characterImage.onerror = function() {
       characterImage.src = "./assets/images/unavailable.png"
     }
