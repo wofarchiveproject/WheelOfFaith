@@ -1,0 +1,1336 @@
+{
+    "Him": {
+        "Race": "Lightning Elemental",
+        "Archetype": "",
+        "Role": "Villain",
+        "Title": "",
+        "Size": "8 FT",
+        "Stats": {
+            "Strength": "Peak Human",
+            "Speed": "Old man",
+            "Durability": "Planetary",
+            "IQ": "Darwizzy",
+            "Fight": "Darwizzy -1"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Disease Control",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Him.png"
+    },
+    "Aydan Grills": {
+        "Race": "Titans",
+        "Archetype": "",
+        "Role": "Anti-Hero",
+        "Title": "",
+        "Size": "3.5 FT",
+        "Stats": {
+            "Strength": "Universal",
+            "Speed": "Universal",
+            "Durability": "Darwizzy",
+            "IQ": "Cosmic",
+            "Fight": "Darwizzy"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Possession + Time Travel",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Aydan Grills.png"
+    },
+    "gh50k": {
+        "Race": "Adamantium Skeleton",
+        "Archetype": "",
+        "Role": "Hero",
+        "Title": "",
+        "Size": "7 FT",
+        "Stats": {
+            "Strength": "Herculean",
+            "Speed": "Universal",
+            "Durability": "Cosmic",
+            "IQ": "Dumb",
+            "Fight": "Cosmic"
+        },
+        "Weapons": {
+            "Weapon": "Morning Star",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Time Stopping",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - gh50k.png"
+    },
+    "Tedmorgan": {
+        "Race": "Solar Powered Android",
+        "Archetype": "",
+        "Role": "Anti-Hero",
+        "Title": "",
+        "Size": "4 FT",
+        "Stats": {
+            "Strength": "Darwizzy",
+            "Speed": "Omnipresent",
+            "Durability": "Cosmic",
+            "IQ": "Nigh-Omniscience",
+            "Fight": "Darwizzy"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "True Aim",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Tedmorgan.png"
+    },
+    "Saban208": {
+        "Race": "Orc - Dark Shaman",
+        "Archetype": "",
+        "Role": "Villain",
+        "Title": "",
+        "Size": "8.5 FT",
+        "Stats": {
+            "Strength": "Mid",
+            "Speed": "Light Speed",
+            "Durability": "Peak Human",
+            "IQ": "Cosmic",
+            "Fight": "Amateur"
+        },
+        "Weapons": {
+            "Weapon": "Broom",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Void Manipulation + Blood Control",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Saban208.png"
+    },
+    "sbbb223": {
+        "Race": "Animorph - Adaptive Morphing",
+        "Archetype": "",
+        "Role": "Villain",
+        "Title": "",
+        "Size": "8.5 FT",
+        "Stats": {
+            "Strength": "Mid",
+            "Speed": "Darwizzy",
+            "Durability": "Superhuman",
+            "IQ": "Nigh-Omniscience",
+            "Fight": "Universal Gladiator"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Camouflage",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - sbbb223.png"
+    },
+    "Hardball": {
+        "Race": "Iron Claw Dragon Slayer",
+        "Archetype": "",
+        "Role": "Hero",
+        "Title": "",
+        "Size": "6 FT",
+        "Stats": {
+            "Strength": "Mighty",
+            "Speed": "Old man",
+            "Durability": "Planetary",
+            "IQ": "Darwizzy -1",
+            "Fight": "Skilled"
+        },
+        "Weapons": {
+            "Weapon": "Stick",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Hardball.png"
+    },
+    "Nyta": {
+        "Race": "Primordial Time Warden",
+        "Archetype": "",
+        "Role": "Hero",
+        "Title": "",
+        "Size": "10.5 FT",
+        "Stats": {
+            "Strength": "Omnipresent",
+            "Speed": "Supersonic",
+            "Durability": "Planetary",
+            "IQ": "Nigh-Omniscience",
+            "Fight": "Cosmic"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Resurrection",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Nyta.png"
+    },
+    "Jeremy": {
+        "Race": "Solo Goblin",
+        "Archetype": "",
+        "Role": "Villain",
+        "Title": "",
+        "Size": "9 FT",
+        "Stats": {
+            "Strength": "Peak Human",
+            "Speed": "Supersonic",
+            "Durability": "Fragile",
+            "IQ": "Cosmic",
+            "Fight": "Amateur"
+        },
+        "Weapons": {
+            "Weapon": "(Not Worthy) Thor's Hammer",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Jeremy.png"
+    },
+    "Average Percy Jackson Enjoyer": {
+        "Race": "Flame Wyrm Dragon (modern)",
+        "Archetype": "",
+        "Role": "Hero",
+        "Title": "",
+        "Size": "15.5 FT",
+        "Stats": {
+            "Strength": "Weak",
+            "Speed": "Peak Human",
+            "Durability": "Nuclear",
+            "IQ": "Nigh-Omniscience",
+            "Fight": "Peak Human"
+        },
+        "Weapons": {
+            "Weapon": "Elder Wand",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Average Percy Jackson Enjoyer.png"
+    },
+    "Platonic Panda": {
+        "Race": "Old Bloodline Human (Beast Tamer - Saltwater Crocodile)",
+        "Archetype": "",
+        "Role": "Hero",
+        "Title": "",
+        "Size": "3 FT",
+        "Stats": {
+            "Strength": "Superhuman",
+            "Speed": "Darwizzy",
+            "Durability": "Fragile",
+            "IQ": "Prodigious",
+            "Fight": "Darwizzy"
+        },
+        "Weapons": {
+            "Weapon": "Master Sword + Crocodile",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Platonic Panda.png"
+    },
+    "Joe": {
+        "Race": "Draconian Hunter Order Dragon Slayer",
+        "Archetype": "",
+        "Role": "Villain",
+        "Title": "",
+        "Size": "7 FT",
+        "Stats": {
+            "Strength": "Cosmic",
+            "Speed": "Supersonic",
+            "Durability": "Universal",
+            "IQ": "Prodigious",
+            "Fight": "Peak Human"
+        },
+        "Weapons": {
+            "Weapon": "Inferno Spear",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Temporary Invulnerability",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S1 - Gijoe.png"
+    },
+    "willbattle49": {
+        "Race": "Ascended Soul Angel - Fallen Redeemed Order",
+        "Archetype": "",
+        "Role": "Villain",
+        "Title": "",
+        "Size": "6.5 FT",
+        "Stats": {
+            "Strength": "Universal",
+            "Speed": "Supersonic",
+            "Durability": "Nuclear",
+            "IQ": "Cosmic",
+            "Fight": "Planetary Fighter"
+        },
+        "Weapons": {
+            "Weapon": "Pillow",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Voice of Command + Weather Control",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - willbattle49.jpg"
+    },
+    "Wantan77r": {
+        "Race": "Natural Phenomenon Skeleton",
+        "Archetype": "",
+        "Role": "Villain",
+        "Title": "",
+        "Size": "4.5 FT",
+        "Stats": {
+            "Strength": "Weak",
+            "Speed": "Cosmic",
+            "Durability": "Peak Human",
+            "IQ": "Cosmic",
+            "Fight": "Cosmic"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Metor Strike + Void Manipulation",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Wantan77r.png"
+    },
+    "Kanemcillop30": {
+        "Race": "Eternity Primordial",
+        "Archetype": "",
+        "Role": "?",
+        "Title": "",
+        "Size": "?",
+        "Stats": {
+            "Strength": "Boundless",
+            "Speed": "Light Speed",
+            "Durability": "Nuclear",
+            "IQ": "Nigh-Omniscience",
+            "Fight": "Universal Gladiator"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Memory Alteration + Power Absorption + Elementals",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Kanemcillop30.jpg"
+    },
+    "Cloverleaf": {
+        "Race": "Orc - Green Skin Beserker",
+        "Archetype": "",
+        "Role": "Hero",
+        "Title": "",
+        "Size": "4 FT",
+        "Stats": {
+            "Strength": "Peak Human",
+            "Speed": "Peak Human",
+            "Durability": "Regenerative",
+            "IQ": "Dumb",
+            "Fight": "Champion"
+        },
+        "Weapons": {
+            "Weapon": "Bow",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Cloverleaf.png"
+    },
+    "_stupidax_": {
+        "Race": "Giant - Inferno Elder",
+        "Archetype": "",
+        "Role": "Hero",
+        "Title": "",
+        "Size": "20 FT",
+        "Stats": {
+            "Strength": "Universal",
+            "Speed": "Light Speed",
+            "Durability": "Universal",
+            "IQ": "Genius",
+            "Fight": "Champion"
+        },
+        "Weapons": {
+            "Weapon": "Captain America Shield",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "X-Ray Vision",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - _stupidax_.png"
+    },
+    "John": {
+        "Race": "Elf - Chosen One Star whisperer",
+        "Archetype": "",
+        "Role": "Villain",
+        "Title": "",
+        "Size": "4.5 FT",
+        "Stats": {
+            "Strength": "Weak",
+            "Speed": "Mid",
+            "Durability": "Universal",
+            "IQ": "Nigh-Omniscience",
+            "Fight": "Unbeatable"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Power Absorption + Empowering + Regular Rizz",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S1 - The Johnny Boy.png"
+    },
+    "rip_bobre": {
+        "Race": "Werewolf - Sigma - Full Moon",
+        "Archetype": "",
+        "Role": "Hero",
+        "Title": "",
+        "Size": "3.5 FT",
+        "Stats": {
+            "Strength": "Universal",
+            "Speed": "Cosmic",
+            "Durability": "Nuclear",
+            "IQ": "Cosmic",
+            "Fight": "Champion"
+        },
+        "Weapons": {
+            "Weapon": "Flame Thrower",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - rip_bobre.png"
+    },
+    "iker": {
+        "Race": "Demi God - Divine Child -Space Invader",
+        "Archetype": "",
+        "Role": "Villain",
+        "Title": "",
+        "Size": "7.5 FT",
+        "Stats": {
+            "Strength": "Cosmic",
+            "Speed": "Darwizzy",
+            "Durability": "Nuclear",
+            "IQ": "Omniscient",
+            "Fight": "Cosmic"
+        },
+        "Weapons": {
+            "Weapon": "Poseidons Trident",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Time Travel + Thunder Control + Dimensional Travel",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - iker.png"
+    },
+    "The Mexican": {
+        "Race": "Hybrid - God of the Sun + Thunderstorm Spirit",
+        "Archetype": "",
+        "Role": "Villain",
+        "Title": "",
+        "Size": "26 FT",
+        "Stats": {
+            "Strength": "Universal",
+            "Speed": "Light Speed",
+            "Durability": "Nuclear",
+            "IQ": "Nigh-Omniscience",
+            "Fight": "Universal Gladiator"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Probability Manipulation + Energy Projection + Intangability",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - The Mexican.png"
+    },
+    "Kevin Swallows": {
+        "Race": "Vampire - 5000+",
+        "Archetype": "",
+        "Role": "Villain",
+        "Title": "",
+        "Size": "9 FT",
+        "Stats": {
+            "Strength": "Cosmic",
+            "Speed": "Darwizzy",
+            "Durability": "Fragile",
+            "IQ": "Prodigious",
+            "Fight": "Universal Gladiator"
+        },
+        "Weapons": {
+            "Weapon": "Baseball Bat",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Time Stopping",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Kevin Swallows.png"
+    },
+    "Joe 2": {
+        "Race": "Goblin - 1000+ army - Leader",
+        "Archetype": "",
+        "Role": "Hero",
+        "Title": "",
+        "Size": "4.5 FT",
+        "Stats": {
+            "Strength": "Cosmic",
+            "Speed": "Cosmic",
+            "Durability": "Nuclear",
+            "IQ": "Dumb",
+            "Fight": "Champion"
+        },
+        "Weapons": {
+            "Weapon": "Scythe",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Love Induction",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Joe 2.png"
+    },
+    "Suburban Shaman": {
+        "Race": "Dragon Slayer - Primordial Embodiment",
+        "Archetype": "",
+        "Role": "Hero",
+        "Title": "",
+        "Size": "4.5 FT",
+        "Stats": {
+            "Strength": "Mid",
+            "Speed": "Light Speed",
+            "Durability": "Universal",
+            "IQ": "Omniscient",
+            "Fight": "Peak Human"
+        },
+        "Weapons": {
+            "Weapon": "Void Breaker Maul",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Regeneration",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Suburban Shaman.png"
+    },
+    "Jason": {
+        "Race": "Elemantal - Suns Radiance - Universe Ending",
+        "Archetype": "",
+        "Role": "Villain",
+        "Title": "",
+        "Size": "18 FT",
+        "Stats": {
+            "Strength": "Mighty",
+            "Speed": "Cosmic",
+            "Durability": "Universal",
+            "IQ": "Nigh-Omniscience",
+            "Fight": "Amateur"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Light Manipulation + Energy Projection",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Jason.png"
+    },
+    "Sid": {
+        "Race": "Skeleton - Necromancer Origin",
+        "Archetype": "",
+        "Role": "Hero",
+        "Title": "",
+        "Size": "3.5 FT",
+        "Stats": {
+            "Strength": "Peak Human",
+            "Speed": "Peak Human",
+            "Durability": "Peak Human",
+            "IQ": "Dumb",
+            "Fight": "Peak Human"
+        },
+        "Weapons": {
+            "Weapon": "Pillow",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Sid.png"
+    },
+    "Blackfeign": {
+        "Race": "Dragon - Wind Dragon - Eclipsed Age",
+        "Archetype": "",
+        "Role": "Villain",
+        "Title": "",
+        "Size": "35 FT",
+        "Stats": {
+            "Strength": "Cosmic",
+            "Speed": "Peak Human",
+            "Durability": "Regenerative",
+            "IQ": "Nigh-Omniscience",
+            "Fight": "Planetary Fighter"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Tough Skin",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Blackfeign.png"
+    },
+    "Achilles Powers": {
+        "Race": "Hybrid Werewolf (Bloodmoon Omega) + Skeleton (Cursed Artifact) (Mirror)",
+        "Archetype": "",
+        "Role": "Hero",
+        "Title": "",
+        "Size": "9.5 FT",
+        "Stats": {
+            "Strength": "Mid",
+            "Speed": "Supersonic",
+            "Durability": "Peak Human",
+            "IQ": "Dumb",
+            "Fight": "Universal Gladiator"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Bone Control",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Achilles Powers.png"
+    },
+    "Laser": {
+        "Race": "Android - Vacuum Robot - Cosmic Reactor",
+        "Archetype": "",
+        "Role": "Anti-Hero",
+        "Title": "",
+        "Size": "8 FT",
+        "Stats": {
+            "Strength": "Weak",
+            "Speed": "Light Speed",
+            "Durability": "Nuclear",
+            "IQ": "Omniscient",
+            "Fight": "Cosmic"
+        },
+        "Weapons": {
+            "Weapon": "Dragon Slayer",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Laser.png"
+    },
+    "Sammy": {
+        "Race": "Skeleton - Natural Phenomenon - Comets Tail",
+        "Archetype": "",
+        "Role": "Anti-Hero",
+        "Title": "",
+        "Size": "6 FT",
+        "Stats": {
+            "Strength": "Superhuman",
+            "Speed": "Superhuman",
+            "Durability": "Universal",
+            "IQ": "Genius",
+            "Fight": "Champion"
+        },
+        "Weapons": {
+            "Weapon": "Ukelele",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Molecular Manipulation",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Sammy.png"
+    },
+    "Michael Roark": {
+        "Race": "Giant - Ocean Leviathan",
+        "Archetype": "",
+        "Role": "Hero",
+        "Title": "",
+        "Size": "22 FT",
+        "Stats": {
+            "Strength": "Mid",
+            "Speed": "Cosmic",
+            "Durability": "Universal",
+            "IQ": "Dumb",
+            "Fight": "Darwizzy"
+        },
+        "Weapons": {
+            "Weapon": "Broom",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Acid Generation",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Michael Roark.png"
+    },
+    "Chromestr": {
+        "Race": "Vampire - 500+",
+        "Archetype": "",
+        "Role": "Villain",
+        "Title": "",
+        "Size": "3 FT",
+        "Stats": {
+            "Strength": "Universal",
+            "Speed": "Light Speed",
+            "Durability": "Nuclear",
+            "IQ": "Nigh-Omniscience",
+            "Fight": "Champion"
+        },
+        "Weapons": {
+            "Weapon": "Stick",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Shadow Control",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Chromestr.jpg"
+    },
+    "Cosmic Devourer of All": {
+        "Race": "Demi God - Champion Child - Siothz",
+        "Archetype": "",
+        "Role": "Hero",
+        "Title": "",
+        "Size": "5 FT",
+        "Stats": {
+            "Strength": "Mighty",
+            "Speed": "Omnipresent",
+            "Durability": "Fragile",
+            "IQ": "Omniscient",
+            "Fight": "Cosmic"
+        },
+        "Weapons": {
+            "Weapon": "Blades of Chaos",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Molecular Manipulation + Gravity Control",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Cosmic Devourer of All.jpg"
+    },
+    "Fenerx87": {
+        "Race": "Human - Old Bloodline - Shadow Ninjas",
+        "Archetype": "",
+        "Role": "Anti-Hero",
+        "Title": "",
+        "Size": "4 FT",
+        "Stats": {
+            "Strength": "Boundless",
+            "Speed": "Darwizzy",
+            "Durability": "Mid",
+            "IQ": "Dumb",
+            "Fight": "Peak Human"
+        },
+        "Weapons": {
+            "Weapon": "Zues' Thunderbolt",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Invisibility Cloak + Shape Shifting",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Fenerx87.png"
+    },
+    "Terrancepop": {
+        "Race": "Orc - Bard",
+        "Archetype": "",
+        "Role": "Hero",
+        "Title": "",
+        "Size": "3.5 FT",
+        "Stats": {
+            "Strength": "Cosmic",
+            "Speed": "Mid",
+            "Durability": "Universal",
+            "IQ": "Dumb",
+            "Fight": "Champion"
+        },
+        "Weapons": {
+            "Weapon": "Nunchaku",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Precognition",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Terrancepop.jpg"
+    },
+    "Devil Emoji": {
+        "Race": "God - War",
+        "Archetype": "",
+        "Role": "Villain",
+        "Title": "",
+        "Size": "6 FT",
+        "Stats": {
+            "Strength": "Boundless",
+            "Speed": "Light Speed",
+            "Durability": "Universal",
+            "IQ": "Dumb",
+            "Fight": "Cosmic"
+        },
+        "Weapons": {
+            "Weapon": "Rocks",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Balding + Illusion Creation + Flying",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Devil Emoji.jpg"
+    },
+    "TFCK": {
+        "Race": "",
+        "Archetype": "",
+        "Role": "",
+        "Title": "",
+        "Size": "",
+        "Stats": {
+            "Strength": "",
+            "Speed": "",
+            "Durability": "",
+            "IQ": "",
+            "Fight": ""
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - TFCK.jpg"
+    },
+    "Alex Howard": {
+        "Race": "Vampire - All Races 10 body count",
+        "Archetype": "",
+        "Role": "Villain",
+        "Title": "",
+        "Size": "4 FT",
+        "Stats": {
+            "Strength": "Mighty",
+            "Speed": "Mid",
+            "Durability": "Nuclear",
+            "IQ": "Omniscient",
+            "Fight": "Champion"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Alex Howard.jpg"
+    },
+    "Chef Crouch": {
+        "Race": "Orc-Warlord",
+        "Archetype": "",
+        "Role": "Villain",
+        "Title": "",
+        "Size": "4 FT",
+        "Stats": {
+            "Strength": "Superhuman",
+            "Speed": "Cosmic",
+            "Durability": "Nuclear",
+            "IQ": "Cosmic",
+            "Fight": "Amateur"
+        },
+        "Weapons": {
+            "Weapon": "Whip",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Necromancy",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": ""
+    },
+    "Twobitts": {
+        "Race": "Werewolf-Omega-Crescent",
+        "Archetype": "",
+        "Role": "Hero",
+        "Title": "",
+        "Size": "4.5 FT",
+        "Stats": {
+            "Strength": "Peak Human",
+            "Speed": "Peak Human",
+            "Durability": "Nuclear",
+            "IQ": "Nigh-Omniscience",
+            "Fight": "Darwizzy"
+        },
+        "Weapons": {
+            "Weapon": "Dragon Slayer",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Dimensional Travel",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Twobitts.jpg"
+    },
+    "The Sleepy Paramedic": {
+        "Race": "Demi God-Divine Children-Love God(PersonalBorderline)",
+        "Archetype": "",
+        "Role": "",
+        "Title": "",
+        "Size": "8 FT",
+        "Stats": {
+            "Strength": "Universal",
+            "Speed": "Light Speed",
+            "Durability": "Nuclear",
+            "IQ": "Omniscient",
+            "Fight": "Cosmic"
+        },
+        "Weapons": {
+            "Weapon": "Whip",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Rizz (Rusty) Smoke Manipulation",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - The Sleepy Paramedic.jpg"
+    },
+    "Danny": {
+        "Race": "Dragon-Earth Drake-Golden Era",
+        "Archetype": "",
+        "Role": "",
+        "Title": "",
+        "Size": "40FT",
+        "Stats": {
+            "Strength": "Universal",
+            "Speed": "Light Speed",
+            "Durability": "Mid",
+            "IQ": "Dumb",
+            "Fight": "Darwizzy"
+        },
+        "Weapons": {
+            "Weapon": "Gun",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Summoning",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": ""
+    },
+    "Mike Vanger": {
+        "Race": "Hybrid- Demon - Balrog Vampire - 0 body count(lmao loser)",
+        "Archetype": "",
+        "Role": "",
+        "Title": "",
+        "Size": "3.5FT",
+        "Stats": {
+            "Strength": "Cosmic",
+            "Speed": "Light Speed",
+            "Durability": "Nuclear",
+            "IQ": "Cosmic",
+            "Fight": "Unbeatable"
+        },
+        "Weapons": {
+            "Weapon": "Sword",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Cursed Touch",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": ""
+    },
+    "Ernie Velazquez": {
+        "Race": "Goblin - Alone",
+        "Archetype": "",
+        "Role": "",
+        "Title": "",
+        "Size": "8.5FT",
+        "Stats": {
+            "Strength": "Weak",
+            "Speed": "Darwizzy",
+            "Durability": "Fragile",
+            "IQ": "Dumb",
+            "Fight": "Darwizzy"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": ""
+    },
+    "Angry Magnum": {
+        "Race": "Dragon Slayer- Humble Birth",
+        "Archetype": "",
+        "Role": "",
+        "Title": "",
+        "Size": "3.5FT",
+        "Stats": {
+            "Strength": "Cosmic",
+            "Speed": "Mid",
+            "Durability": "Nuclear",
+            "IQ": "Cosmic",
+            "Fight": "Planetary Fighter"
+        },
+        "Weapons": {
+            "Weapon": "Tidal Glaive",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Night Vision + Empathy",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "S2 - Angry Magnum.jpg"
+    },
+    "NickPablo": {
+        "Race": "Skeleton - Natural Phenomenon - Eclipsed Shadow",
+        "Archetype": "",
+        "Role": "",
+        "Title": "",
+        "Size": "10FT",
+        "Stats": {
+            "Strength": "Mid",
+            "Speed": "Supersonic",
+            "Durability": "Nuclear",
+            "IQ": "Nigh-Omniscience",
+            "Fight": "Amateur"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Empathy",
+            "Power Mastery": "Omnipotent"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": ""
+    }
+}

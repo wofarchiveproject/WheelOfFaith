@@ -1,0 +1,698 @@
+{
+    "BUSHIN": {
+        "Race": "Devil (Regret)",
+        "Archetype": "Sinful Influence: 0 - 1K",
+        "Role": "",
+        "Title": "",
+        "Size": "",
+        "Stats": {
+            "Strength": "Darwizzy",
+            "Speed": "Supersonic",
+            "Durability": "Planetary",
+            "IQ": "Darwizzy",
+            "Fight": "Amateur"
+        },
+        "Weapons": {
+            "Weapon": "Coffin",
+            "Weapon Mastery": "Grand Master"
+        },
+        "Powers": {
+            "Power": "Reality Corruption + Hair Manipulation + Abyssal Chains + Plague Unleashing ",
+            "Power Mastery": "Cosmic"
+        },
+        "Extra": {
+            "Weakness": "Dementia",
+            "Chaos Force": "Powerful",
+            "Chaos Factor": "Demonic Pact (-IQ)"
+        },
+        "Enchantment": "Gambling",
+        "Image": "BUSHIN S6.webp"
+    },
+    "kamdawg": {
+        "Race": "Cosmic Warrior",
+        "Archetype": "Conquered Solar System",
+        "Role": "Hero",
+        "Title": "The One Who Fucked A Dragon",
+        "Size": "9 FT",
+        "Stats": {
+            "Strength": "Peak Human",
+            "Speed": "Peak Human",
+            "Durability": "Peak Human",
+            "IQ": "Sharp",
+            "Fight": "Skilled"
+        },
+        "Weapons": {
+            "Weapon": "Frying Pan",
+            "Weapon Mastery": "Master"
+        },
+        "Powers": {
+            "Power": "Cosmic Manipulation + Invulnerability",
+            "Power Mastery": "Planetary"
+        },
+        "Extra": {
+            "Weakness": "Masochistic",
+            "Chaos Force": "Powerful",
+            "Chaos Factor": "Inversion"
+        },
+        "Enchantment": "Illusions",
+        "Image": "kamdawg S6.webp"
+    },
+    "cacarokz": {
+        "Race": "Cyborg (Darwizzy) (20% Potential)",
+        "Archetype": "Martial Artist (Boxing)",
+        "Role": "Villain",
+        "Title": "The Antagonist",
+        "Size": "9 FT",
+        "Stats": {
+            "Strength": "Mighty",
+            "Speed": "Light Speed",
+            "Durability": "Universal",
+            "IQ": "Mid",
+            "Fight": "Champion"
+        },
+        "Weapons": {
+            "Weapon": "Boxing Gloves",
+            "Weapon Mastery": "Grand Master"
+        },
+        "Powers": {
+            "Power": "Time Dilation Field + Laser Nipples",
+            "Power Mastery": "Awakening"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "Slightly corrupted",
+            "Chaos Factor": "Nemesis"
+        },
+        "Enchantment": "Plasma",
+        "Image": "cacarokz S6.webp"
+    },
+    "flamingo?": {
+        "Race": "Reptile (Lizardmen)",
+        "Archetype": "Primordial Champ (Void)",
+        "Role": "Villain",
+        "Title": "The Secret Final Boss",
+        "Size": "9.5 FT",
+        "Stats": {
+            "Strength": "Herculean",
+            "Speed": "Peak Human",
+            "Durability": "Nuclear",
+            "IQ": "Genius",
+            "Fight": "Champion"
+        },
+        "Weapons": {
+            "Weapon": "Boxing Gloves",
+            "Weapon Mastery": "Adept"
+        },
+        "Powers": {
+            "Power": "Void Manipulation + Abyssal Chains",
+            "Power Mastery": "Master"
+        },
+        "Extra": {
+            "Weakness": "Butterfingers",
+            "Chaos Force": "",
+            "Chaos Factor": "Mentor (Bushin)"
+        },
+        "Enchantment": "",
+        "Image": "flamingo? S6.webp"
+    },
+    "Jayden": {
+        "Race": "Dragonborn (Cosmic)",
+        "Archetype": "",
+        "Role": "Hero",
+        "Title": "The Glass Canon",
+        "Size": "18 FT",
+        "Stats": {
+            "Strength": "Weak",
+            "Speed": "Darwizzy",
+            "Durability": "Superhuman",
+            "IQ": "Cosmic",
+            "Fight": "Cosmic Brawler"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": ""
+        },
+        "Powers": {
+            "Power": "Cosmic Manipulation + Pain Infliction + Darkness Manipulation",
+            "Power Mastery": "Archmage"
+        },
+        "Extra": {
+            "Weakness": "Arm Amputee",
+            "Chaos Force": "Him",
+            "Chaos Factor": "Demonic Pact (-Speed)"
+        },
+        "Enchantment": "",
+        "Image": "Jayden S6.webp"
+    },
+    ":)": {
+        "Race": "Skeleton (Dwarf)",
+        "Archetype": "Slayer (Darwizzies)",
+        "Role": "Villain",
+        "Title": "The Dragon Rider",
+        "Size": "4 FT",
+        "Stats": {
+            "Strength": "Peak Human",
+            "Speed": "Old man",
+            "Durability": "Fragile",
+            "IQ": "Mid",
+            "Fight": "Cosmic Brawler"
+        },
+        "Weapons": {
+            "Weapon": "Sword Trapped in Stone",
+            "Weapon Mastery": "Master"
+        },
+        "Powers": {
+            "Power": "Elasticity",
+            "Power Mastery": "Universal"
+        },
+        "Extra": {
+            "Weakness": "Fat",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "Soul Touch + Power Negation",
+        "Image": ":) S6.webp"
+    },
+    ":)'s Dragon": {
+        "Race": "Dragon (Thunderous)",
+        "Archetype": "",
+        "Role": "",
+        "Title": "",
+        "Size": "5 FT",
+        "Stats": {
+            "Strength": "",
+            "Speed": "",
+            "Durability": "",
+            "IQ": "",
+            "Fight": ""
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": ""
+        },
+        "Powers": {
+            "Power": "",
+            "Power Mastery": ""
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": ":)'s Dragon S6.webp"
+    },
+    "Francis": {
+        "Race": "Gnome (Leprechaun)",
+        "Archetype": "",
+        "Role": "Villain",
+        "Title": "The Collector",
+        "Size": "3 FT",
+        "Stats": {
+            "Strength": "Mighty",
+            "Speed": "Peak Human",
+            "Durability": "Mid",
+            "IQ": "Nigh-Omniscience",
+            "Fight": "Planetary Fighter"
+        },
+        "Weapons": {
+            "Weapon": "Frisbee",
+            "Weapon Mastery": "Master"
+        },
+        "Powers": {
+            "Power": "Possession",
+            "Power Mastery": "Master"
+        },
+        "Extra": {
+            "Weakness": "Ticklish",
+            "Chaos Force": "",
+            "Chaos Factor": "Primordial Sentence (-Luck)"
+        },
+        "Enchantment": "Necrotic",
+        "Image": "Francis S6.webp"
+    },
+    "mrk_the_artist": {
+        "Race": "Human",
+        "Archetype": "Ethan's Bloodcult (Crimson Hands)",
+        "Role": "Hero",
+        "Title": "The Beacon of Light",
+        "Size": "7 FT",
+        "Stats": {
+            "Strength": "Mighty",
+            "Speed": "Cosmic",
+            "Durability": "Fragile",
+            "IQ": "Quite Sharp",
+            "Fight": "Meta-Martial"
+        },
+        "Weapons": {
+            "Weapon": "Folding Chair",
+            "Weapon Mastery": "Adept"
+        },
+        "Powers": {
+            "Power": "Blood Control + Teleportation + Critical Strike",
+            "Power Mastery": "Planetary"
+        },
+        "Extra": {
+            "Weakness": "Daylight",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "mrk_the_artist S6.webp"
+    },
+    "G": {
+        "Race": "Chaos Reincarnation (Joshua) (Darwizzy)",
+        "Archetype": "",
+        "Role": "Villain",
+        "Title": "The Tyrant",
+        "Size": "",
+        "Stats": {
+            "Strength": "Peak Human",
+            "Speed": "Peak Human",
+            "Durability": "Universal",
+            "IQ": "Darwizzy",
+            "Fight": "Champion"
+        },
+        "Weapons": {
+            "Weapon": "Chaos Whip",
+            "Weapon Mastery": "Universal"
+        },
+        "Powers": {
+            "Power": "Frostfire + Teleportation + Summoning (Legatei)",
+            "Power Mastery": "Controlled"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "Him",
+            "Chaos Factor": "Chaos Insurgence"
+        },
+        "Enchantment": "Heavenly Grace",
+        "Image": "G S6.webp"
+    },
+    "HellzReign": {
+        "Race": "Dryad (Dryad)",
+        "Archetype": "Dual Wielder",
+        "Role": "Villain",
+        "Title": "The Relentless Bastard",
+        "Size": "9.5 FT",
+        "Stats": {
+            "Strength": "Mid",
+            "Speed": "Peak Human",
+            "Durability": "Peak Human",
+            "IQ": "Quite Sharp",
+            "Fight": "Amateur"
+        },
+        "Weapons": {
+            "Weapon": "Gun + Sword",
+            "Weapon Mastery": "Grand Master + Grand Master"
+        },
+        "Powers": {
+            "Power": "Plant Manipulation + Elementals",
+            "Power Mastery": "Planetary"
+        },
+        "Extra": {
+            "Weakness": "Leg Amputee",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "Poisoned + Comically Large",
+        "Image": "HellzReign S6.webp"
+    },
+    "Matthew Quist": {
+        "Race": "Troll (Healthy) + Elemental (Sun's Radiance)",
+        "Archetype": "NPC",
+        "Role": "Anti-Hero",
+        "Title": "The Rock",
+        "Size": "6 FT",
+        "Stats": {
+            "Strength": "Cosmic",
+            "Speed": "Superhuman",
+            "Durability": "Peak Human",
+            "IQ": "Dumb",
+            "Fight": "Champion"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": ""
+        },
+        "Powers": {
+            "Power": "Solar Manipulation",
+            "Power Mastery": "Archmage"
+        },
+        "Extra": {
+            "Weakness": "Daylight",
+            "Chaos Force": "",
+            "Chaos Factor": "Mutation"
+        },
+        "Enchantment": "",
+        "Image": "Matthew Quist S6.webp"
+    },
+    "prytronic": {
+        "Race": "Demi-God (Divine Children) (God of Gods)",
+        "Archetype": "",
+        "Role": "Hero",
+        "Title": "The Gifted",
+        "Size": "9 FT",
+        "Stats": {
+            "Strength": "Universal",
+            "Speed": "Superhuman",
+            "Durability": "Universal",
+            "IQ": "Prodigious",
+            "Fight": "Planetary Fighter"
+        },
+        "Weapons": {
+            "Weapon": "Leather Belt",
+            "Weapon Mastery": "Master"
+        },
+        "Powers": {
+            "Power": "Teleportation + Toon Force",
+            "Power Mastery": "Cosmic"
+        },
+        "Extra": {
+            "Weakness": "Butterfingers",
+            "Chaos Force": "Him +",
+            "Chaos Factor": "Chaos Insurgence"
+        },
+        "Enchantment": "Paper Cut",
+        "Image": "prytronic S6.webp"
+    },
+    "Skaggalaggin": {
+        "Race": "Primordial (Time)",
+        "Archetype": "",
+        "Role": "",
+        "Title": "",
+        "Size": "",
+        "Stats": {
+            "Strength": "Boundless",
+            "Speed": "Omnipresent",
+            "Durability": "Planetary",
+            "IQ": "Omniscient",
+            "Fight": "Champion"
+        },
+        "Weapons": {
+            "Weapon": "Phoenix Bow",
+            "Weapon Mastery": "Transcendent"
+        },
+        "Powers": {
+            "Power": "Time Manipulation + Teleportation + Law Manifestation + Critical Strike + Blood Control",
+            "Power Mastery": "Universal"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "",
+            "Chaos Factor": "Mentor (M.K)"
+        },
+        "Enchantment": "Living Weapon + Lifesteal",
+        "Image": "Skaggalaggin S6.webp"
+    },
+    "Sumibased": {
+        "Race": "Elf (High Elves)",
+        "Archetype": "NPC",
+        "Role": "Hero",
+        "Title": "The One Who Knocks",
+        "Size": "4 FT",
+        "Stats": {
+            "Strength": "Peak Human",
+            "Speed": "Peak Human",
+            "Durability": "Peak Human",
+            "IQ": "Mid",
+            "Fight": "Amateur"
+        },
+        "Weapons": {
+            "Weapon": "Vuvuzela",
+            "Weapon Mastery": "Master"
+        },
+        "Powers": {
+            "Power": "Enhanced Senses + Animal Control + Nature Control",
+            "Power Mastery": "Archmage"
+        },
+        "Extra": {
+            "Weakness": "Leg Amputee",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "Whirlwind",
+        "Image": "Sumibased S6.webp"
+    },
+    "Erysichthon": {
+        "Race": "Darwizzies (90% Potential)",
+        "Archetype": "Trickster",
+        "Role": "Villain",
+        "Title": "The Vengeful",
+        "Size": "3 FT",
+        "Stats": {
+            "Strength": "Weak",
+            "Speed": "Old man",
+            "Durability": "Mid",
+            "IQ": "Dumb",
+            "Fight": "Rookie"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": ""
+        },
+        "Powers": {
+            "Power": "",
+            "Power Mastery": ""
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "Powerful",
+            "Chaos Factor": "Darwizzy Curse"
+        },
+        "Enchantment": "",
+        "Image": "Erysichthon S6.webp"
+    },
+    "Truemonkh": {
+        "Race": "Cyborg (Giant) (Inferno Elders)",
+        "Archetype": "Ethan's Bloodcult (Sanguine Sovereigns)",
+        "Role": "Anti-Hero",
+        "Title": "The Wandering Bard",
+        "Size": "28 FT",
+        "Stats": {
+            "Strength": "Mighty",
+            "Speed": "Light Speed",
+            "Durability": "Nuclear",
+            "IQ": "Genius",
+            "Fight": "Planetary Fighter"
+        },
+        "Weapons": {
+            "Weapon": "Relic (Ethan's Ukelele)",
+            "Weapon Mastery": "Grand Master"
+        },
+        "Powers": {
+            "Power": "Magma Manipulation + Vacuum + Critical Strike + Blood Manipulation + Teleportation + Reality Warping",
+            "Power Mastery": "Controlled"
+        },
+        "Extra": {
+            "Weakness": "Testicular Torsion",
+            "Chaos Force": "Favored (Death)",
+            "Chaos Factor": "Inversion"
+        },
+        "Enchantment": "Voidtouch + Symbiotic",
+        "Image": "Truemonkh S6.webp"
+    },
+    "cam_widder": {
+        "Race": "Human",
+        "Archetype": "Hybrid (Goliath) (Latex Suit) + Paladin",
+        "Role": "Anti-Hero",
+        "Title": "The Fatass",
+        "Size": "5.5 FT",
+        "Stats": {
+            "Strength": "Superhuman",
+            "Speed": "Mid",
+            "Durability": "Mid",
+            "IQ": "Mid",
+            "Fight": "Planetary Fighter"
+        },
+        "Weapons": {
+            "Weapon": "Stick",
+            "Weapon Mastery": "Expert"
+        },
+        "Powers": {
+            "Power": "Blessed Maelstrom ",
+            "Power Mastery": "Cosmic"
+        },
+        "Extra": {
+            "Weakness": "Limited Range",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "cam_widder S6.webp"
+    },
+    "BossMan97": {
+        "Race": "Dragon (Poison)",
+        "Archetype": "",
+        "Role": "Anti-Hero",
+        "Title": "The One Who Hates Goblins",
+        "Size": "10 FT",
+        "Stats": {
+            "Strength": "Boundless ++",
+            "Speed": "Light Speed",
+            "Durability": "Peak Human",
+            "IQ": "Sharp",
+            "Fight": "Darwizzy"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": ""
+        },
+        "Powers": {
+            "Power": "Super Strength",
+            "Power Mastery": "Archmage"
+        },
+        "Extra": {
+            "Weakness": "",
+            "Chaos Force": "Slightly corrupted",
+            "Chaos Factor": "Chaos Insurgence"
+        },
+        "Enchantment": "",
+        "Image": "BossMan97 S6.webp"
+    },
+    "sausagedawg": {
+        "Race": "Spirit (Cooper)",
+        "Archetype": "Resilient",
+        "Role": "Villain",
+        "Title": "The Embodiment of Good",
+        "Size": "",
+        "Stats": {
+            "Strength": "Mighty",
+            "Speed": "Cosmic",
+            "Durability": "Planetary",
+            "IQ": "Sharp",
+            "Fight": "Universal Gladiator"
+        },
+        "Weapons": {
+            "Weapon": "Relic (Joe's Inferno Spear)",
+            "Weapon Mastery": "Expert"
+        },
+        "Powers": {
+            "Power": "Time Travel",
+            "Power Mastery": "Darwizzy"
+        },
+        "Extra": {
+            "Weakness": "Blind",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "sausagedawg S6.webp"
+    },
+    "Balakay": {
+        "Race": "Dwarf",
+        "Archetype": "Goliath (Heavy Plates)",
+        "Role": "Hero",
+        "Title": "The Favorite",
+        "Size": "2.5 FT",
+        "Stats": {
+            "Strength": "Mid",
+            "Speed": "Darwizzy",
+            "Durability": "Superhuman",
+            "IQ": "Sharp",
+            "Fight": "Rookie"
+        },
+        "Weapons": {
+            "Weapon": "Brick",
+            "Weapon Mastery": "Master"
+        },
+        "Powers": {
+            "Power": "Pain Suppression",
+            "Power Mastery": "Master"
+        },
+        "Extra": {
+            "Weakness": "Moral Code",
+            "Chaos Force": "Him +",
+            "Chaos Factor": "Chaos Insurgence"
+        },
+        "Enchantment": "Sleep Induction + Seismic",
+        "Image": "Balakay S6.webp"
+    },
+    "Tucker Ward": {
+        "Race": "Primordial (Life)",
+        "Archetype": "",
+        "Role": "",
+        "Title": "",
+        "Size": "",
+        "Stats": {
+            "Strength": "Darwizzy -1",
+            "Speed": "Cosmic",
+            "Durability": "Cosmic",
+            "IQ": "Nigh-Omniscience",
+            "Fight": "Planetary Fighter"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": ""
+        },
+        "Powers": {
+            "Power": "Limited Life Manipulation + Time Freeze + Memory Alteration",
+            "Power Mastery": "Universal"
+        },
+        "Extra": {
+            "Weakness": "Physically Limited",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "",
+        "Image": "Tucker Ward S6.webp"
+    },
+    "Nikomariko18": {
+        "Race": "Neutralizers (Atlas)",
+        "Archetype": "",
+        "Role": "Villain",
+        "Title": "The Crownless King",
+        "Size": "16 FT",
+        "Stats": {
+            "Strength": "Boundless",
+            "Speed": "Universal",
+            "Durability": "Fragile",
+            "IQ": "Cosmic",
+            "Fight": "Universal Gladiator"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": "Universal"
+        },
+        "Powers": {
+            "Power": "Power Negation",
+            "Power Mastery": "Universal"
+        },
+        "Extra": {
+            "Weakness": "Inexperienced",
+            "Chaos Force": "",
+            "Chaos Factor": ""
+        },
+        "Enchantment": "Time Warp",
+        "Image": "Nikomariko18 S6.webp"
+    },
+    "thesamstrong": {
+        "Race": "Soulreavers (Everything)",
+        "Archetype": "",
+        "Role": "Hero",
+        "Title": "The Brokie",
+        "Size": "8 FT",
+        "Stats": {
+            "Strength": "Darwizzy",
+            "Speed": "Supersonic",
+            "Durability": "Nuclear",
+            "IQ": "Sharp",
+            "Fight": "Meta-Martial"
+        },
+        "Weapons": {
+            "Weapon": "",
+            "Weapon Mastery": ""
+        },
+        "Powers": {
+            "Power": "",
+            "Power Mastery": ""
+        },
+        "Extra": {
+            "Weakness": "Darwizzies",
+            "Chaos Force": "",
+            "Chaos Factor": "Darwizzy Curse"
+        },
+        "Enchantment": "",
+        "Image": "thesamstrong S6.webp"
+    }
+}
