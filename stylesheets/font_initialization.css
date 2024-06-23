@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "SF Slapstick Comic";
+    src:
+      url("../assets/fonts/SF Slapstick Comic.ttf") format("truetype"),  /* Semicolon added */
+      url("../assets/fonts/SF Slapstick Comic Oblique.ttf") format("truetype") font-italic,
+      url("../assets/fonts/SF Slapstick Comic Bold.ttf") format("truetype") font-weight-bold,
+      url("../assets/fonts/SF Slapstick Comic Bold Oblique.ttf") format("truetype") font-italic font-weight-bold;
+}

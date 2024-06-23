@@ -1,0 +1,212 @@
+/* Navigation */
+.mobile {
+    & #navigation {
+        position: sticky;
+        top: 0;
+
+        height: fit-content;
+
+        padding: 5px 0px;
+
+        & .nav {
+            position: relative;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+
+            gap: 0em;
+
+            & #logo {
+                position: relative;
+                left: 0;
+
+                & img {
+                    aspect-ratio: 100/50;
+                    height: 50px;
+                }
+            }
+
+            & .mobile-menu-popout-button {
+                position: absolute;
+                top: 0;
+                right: 0;
+                
+                display: block;
+                
+                font-size: 48px;
+            }
+
+            & .location.seasons {
+                & span { color: transparent; }
+            }
+
+            &:not(.popped-out) {
+                & .location.home, .location.seasons, .location.website, .location.fandom {
+                    display: none;
+                }
+            }
+        }
+
+        & .location-hover {
+            z-index: 10;
+
+            & .header {
+                display: block;
+                position: absolute;
+                top: 0; left: 0;
+                background: rgb(188, 1, 0, 0.5);
+                height: 2em;
+                width: 100%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-size: 1.5em;
+            }
+        }
+
+        & .location-backdrop.hidden {
+            display: none;
+            z-index: 6;
+        }
+
+        & .location-backdrop {
+            &:not(.hidden) {
+                position: absolute;
+                top: 0;
+                left: 0;
+                height: 100dvh;
+                width: 100dvw;
+
+                background: rgb(0, 0, 0, 0.5);
+                backdrop-filter: blur(1px);
+    
+                z-index: 6;
+            }
+        }
+
+        & .location-hover {
+            filter: none;
+            &:not(.hidden) {
+                height: calc(100dvh - 10dvh);
+                width: calc(100dvw - 30dvw);
+
+                top: 5dvh;
+                left: 15dvw;
+
+                z-index: 10;
+
+                & .menu {
+                    height: 100%;
+
+                    justify-content: center;
+                    align-items: center;
+
+                    flex: 1;
+                    gap: 3em;
+
+                    & a {
+                        font-size: 32px;
+                    }
+                }
+            }
+        }
+    }
+
+    #container {
+        & .search-container {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            gap: 0.5em;
+
+
+            text-align: right;
+            vertical-align: center;
+
+            & label {
+                margin-top: 0.2em;
+            }
+
+            & #searchbar {
+                padding: 0.2em;
+
+            }
+        }
+    }
+}
+
+/* Characters & stat cards */
+.mobile {
+    & #characters {
+        justify-content: center;
+
+        & .character {
+
+            & .character-information-holder {
+                padding: 0.5em;
+                gap: 0.5em;
+                overflow: clip;
+                
+                & .season {
+                    left: revert;
+                    bottom: 0px;
+                    right: 0;
+
+                    background-color: transparent;
+                }
+            }
+
+            & .modal, .modal-backdrop { &:not(.active) { visibility: hidden; } }
+
+            & .modal {
+                padding: 1em;
+
+                & .category {
+                    grid-template-columns: repeat(1, 1fr);
+                }
+
+                & li {
+                    margin: 5px 0;
+                }
+
+                & .category {
+                    width: 100%;
+
+                    & .stat-pill {
+                        width: 65% !important;
+
+                        & .inner-stat-pill {
+
+                            & span {
+                                position: absolute;
+                                top: 10px;
+
+                                font-size: 10px;
+                            }
+                        }
+                    }
+                }
+
+                & li {
+                    display: flex;
+                    flex-direction: column;
+
+                    justify-content: center;
+                    align-items: center;
+                }
+
+                & .closeModal {
+                    top: 5px;
+                    right: 15px;
+
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+
+                    z-index: 9;
+                }
+            }
+        }
+    }
+}
